@@ -42,7 +42,7 @@ A full time content creator on & web developer
 
 <!-- github stats ends here  -->
  
-<img src="./My photo.jpg " width="70%">
+
 <img src="./main photo.jpg" width="70%">
 
 
