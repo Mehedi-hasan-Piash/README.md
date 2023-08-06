@@ -4,7 +4,7 @@
 
 <h1> 👋 Hello, I'm Mehedi Hasan </h1>
 
-A full time content creator on & web developer  
+A full time programmer & web developer  
 🏠 &nbsp; Living: Sherpur, Mymensingh.
 
 <!-- Contact me section starts here  -->
@@ -66,9 +66,7 @@ A full time content creator on & web developer
 <!-- education section starts here  -->
 
 ### 👨🏻‍🎓 &nbsp; Education
-1. SSc in Arts, Bibirchar Rahmaniya Fazil Madrasha.
-2. HSC in commerce, Ideal Technical & BM College.
-3. BBA in Sherpur Govt College.
+1. BBA in Sherpur Govt College.
 
 <br />
 
